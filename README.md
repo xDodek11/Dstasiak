@@ -1,7 +1,10 @@
 ## Dominik Stasiak
 
 4TIB, użyty program ( SCRATCH 2 OFFLINE EDITOR )
-Link do gry: https://scratch.mit.edu/projects/202268747/
+
+##Link do gry 
+
+https://scratch.mit.edu/projects/202268747/
 
 ## Temat
 
